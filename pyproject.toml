@@ -1,0 +1,22 @@
+[project]
+name = "alex_music"
+version = "0.0.1"
+authors = [
+  { name="Mr_Sandman", email="" },
+]
+description = "A terminal music player"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Sand199/alex"
+"Bug Tracker" = "https://github.com/Sand199/alex/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
