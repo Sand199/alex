@@ -3,7 +3,7 @@ Alex is a cli youtube music player
 
 ## How to install
 - Have pip installed
-- Requirements: mpv, yt-dlp, youtube-search-python
+- Requirements: mpv, yt-dlp
 - Install Alex: 
     `pip install alex-music`
 
