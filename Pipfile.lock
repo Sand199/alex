@@ -299,14 +299,6 @@
             "markers": "python_version >= '3.7'",
             "version": "==10.4"
         },
-        "youtube-search-python": {
-            "hashes": [
-                "sha256:4568d1d769ecd7eb4bb8365f04eec6e364c5f70eec7b3765f543daebb135fcf5",
-                "sha256:f0d835278bc32335f2ded48ba119bef39cafb290d98648a64deb22f6c4a705f2"
-            ],
-            "index": "pypi",
-            "version": "==1.6.6"
-        },
         "yt-dlp": {
             "hashes": [
                 "sha256:265d5da97a76c15d7d9a4088a67b78acd5dcf6f8cfd8257c52f581ff996ff515",
